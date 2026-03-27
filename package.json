@@ -1,0 +1,22 @@
+{
+  "name": "sky-cookie-checker",
+  "version": "1.0.0",
+  "description": "Sky Brazil Cookie Checker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "colors": "^1.4.0"
+  },
+  "keywords": [
+    "sky",
+    "cookies",
+    "checker",
+    "validator",
+    "brazil"
+  ],
+  "author": "akiralofy",
+  "license": "MIT"
+}
